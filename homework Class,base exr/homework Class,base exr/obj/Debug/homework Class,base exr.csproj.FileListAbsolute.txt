@@ -1,0 +1,8 @@
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\bin\Debug\homework Class,base exr.exe.config
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\bin\Debug\homework Class,base exr.exe
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\bin\Debug\homework Class,base exr.pdb
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\obj\Debug\homework Class,base exr.csproj.AssemblyReference.cache
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\obj\Debug\homework Class,base exr.csproj.SuggestedBindingRedirects.cache
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\obj\Debug\homework Class,base exr.csproj.CoreCompileInputs.cache
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\obj\Debug\homework Class,base exr.exe
+D:\ProgramFiles\homework Class,base exr\homework Class,base exr\obj\Debug\homework Class,base exr.pdb
